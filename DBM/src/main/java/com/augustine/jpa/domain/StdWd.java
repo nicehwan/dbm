@@ -26,7 +26,7 @@ import lombok.Data;
 /**
  * Standard word domain class
  * @author augustine
- *
+ * @version 1.0
  */
 @Data
 @Entity
